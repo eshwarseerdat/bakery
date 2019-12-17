@@ -30,44 +30,6 @@ h1 {
     height: 90vh;
 }
 
-#catagories {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    width: 100%;
-    text-align: center;
-    height: 100vh;
-    /* margin-bottom: 2%; */
-    gap: 1%;
-    box-shadow: 2px 2px 4px 2px rgb(114, 59, 59);
-    padding-top: 1%;
-}
-
-#catagories a {
-    text-decoration: none;
-    font-size: 1.3em;
-    color: #b4972b;
-}
-
-#catagories a:hover {
-    color: #a3851a;
-}
-
-#cookies {
-    margin-left: 3px;
-}
-
-.img-size {
-    width: 98%;
-    height: 65%;
-    border-radius: 45%;
-}
-
-h3 {
-    margin: 2% auto;
-    text-shadow: azure 2px 2px;
-    font-size: 1.7em;
-}
-
 footer {
     padding-top: 1%;
     padding-left: 1%;
@@ -87,5 +49,3 @@ footer img {
     padding-left: 13px;
     cursor: pointer;
 }
-
-
